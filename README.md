@@ -12,8 +12,10 @@ Focus Flow is designed primarily for individuals with ADHD, but it is also benef
 Task Management: Create, organize, and prioritize tasks to stay on top of daily responsibilities.
 Goal Setting: Define short-term and long-term goals, track progress, and celebrate achievements.
 
-**Prerequisites**
+
+
 **Repository Setup**
+
 **GitHub Repository:** 
 Set up a GitHub repository to host the project code.
 Create a new repository on GitHub.
